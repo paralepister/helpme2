@@ -1,4 +1,5 @@
 html {
+  font-family: 'Roboto', sans-serif;
   overflow-x:hidden;
   line-height: 1.15;
 
@@ -9,7 +10,7 @@ body{
 
 }
 
-@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap&subset=cyrillic,cyrillic-ext,latin-ext);
 
 .t-body {
   margin: 0
